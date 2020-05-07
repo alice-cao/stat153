@@ -7,4 +7,4 @@ After testing a couple of models, I decided on an autoregressive (AR) model to p
 
 ![](/arima%20pred.jpeg)
 
-Of course, the predictions from the model only depend on an algorithm and fail to take any kind of human behavior into consideration.  We can help to flatten this curve, which means making the infections stay constant at about 30,000, or perhaps even make the count decrease sooner by staying home and social distancing. 
+Of course, the predictions from the model only depend on an algorithm and fail to take any kind of human behavior into consideration.  We can help to flatten this curve, which means making the infection count stay constant at about 30,000, or perhaps even make the count decrease sooner by staying home and social distancing. 
