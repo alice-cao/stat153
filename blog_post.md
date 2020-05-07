@@ -1,4 +1,0 @@
-The rate at which COVID-19, a pandemic that needs no introduction, is increasing is alarming to everyone who has access to any sort of print, online, or broadcast media.  New data of infection rates of COVID in Timeseria shows the infection rate increasing at exponential rates.  The question everyone has on their mind is how much longer will this go for, and when will infections finally begin to trend down?
-
-The number of infections for the first 66 recorded days in Timeseria is seen below:
-![](covid count.jpeg)
